@@ -116,7 +116,7 @@ def main():
         insert_flights(cursor, flights)
 
         conn.commit()
-        print("✅ Data inserted successfully.")
+        print("Data added successfully.")
 
     except Exception as e:
         print("Error:", e)
