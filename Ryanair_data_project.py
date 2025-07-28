@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 # MySQL config
 config = {
     "user": "root",
-    "password": "mySQLprogrammingclass_25",
+    "password": "",
     "host": "localhost",
     "database": "ryanair_db",
 }
